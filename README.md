@@ -1,4 +1,4 @@
-# Shop Smart
+# 🛒ShopSmart
 
 A React-based web application that manages product discounts based on expiry dates. The application has two main views: Employee View for managing products and Customer View for browsing products with automatic discounts.
 
