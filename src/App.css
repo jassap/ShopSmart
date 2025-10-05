@@ -1,0 +1,63 @@
+.App {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.products-section h2 {
+  color: #333;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+}
+
+/* Additional styles for better visual hierarchy */
+.product-form h2 {
+  color: #333;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+/* Enhanced button styles */
+.nav-btn {
+  min-width: 150px;
+}
+
+/* Product card enhancements */
+.product-card h3 {
+  font-size: 1.4rem;
+  margin-bottom: 15px;
+  line-height: 1.3;
+}
+
+.product-price {
+  font-size: 1.6rem;
+  margin-bottom: 15px;
+}
+
+/* Responsive improvements */
+@media (max-width: 480px) {
+  .container {
+    padding: 10px;
+  }
+  
+  .header {
+    padding: 15px 0;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    font-size: 1.8rem;
+  }
+  
+  .header p {
+    font-size: 1rem;
+  }
+  
+  .product-form {
+    padding: 20px;
+  }
+  
+  .product-card {
+    padding: 15px;
+  }
+}
