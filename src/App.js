@@ -46,7 +46,7 @@ function App() {
         <header className="header">
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
             <div>
-              <h1>🛒 Shop Smart</h1>
+              <h1>🛒 ShopSmart</h1>
               <p>Welcome, {userType === 'employee' ? 'Employee' : 'Customer'}!</p>
             </div>
             <button className="logout-btn" onClick={handleLogout}>
