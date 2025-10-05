@@ -1,5 +1,5 @@
 {
-  "name": "product-discount-manager",
+  "name": "shop-smart",
   "version": "1.0.0",
   "description": "A website to manage product discounts based on expiry dates",
   "main": "index.js",
