@@ -66,7 +66,7 @@ const Login = ({ onLogin }) => {
     <div className="login-container">
       <div className="login-card">
         <div className="login-header">
-          <h1>🛒 Product Discount Manager</h1>
+          <h1>🛒 Shop Smart</h1>
           <p>Please log in to continue</p>
         </div>
 
