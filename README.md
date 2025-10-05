@@ -93,9 +93,3 @@ src/
 
 You can easily modify the discount percentages and time ranges by editing the `calculateDiscount` function in `src/utils/discountCalculator.js`.
 
-## Browser Support
-
-This application works in all modern browsers that support:
-- ES6+ features
-- CSS Grid and Flexbox
-- Local Storage API
